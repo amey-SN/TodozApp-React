@@ -43,8 +43,7 @@ export const AddTodo = ({ addTodo }) => {
                             </div>
                         </div>
                         <input 
-                        id="rangeInput" name="rangeInput"
-                        onChange="setlabel()"
+                        name="rangeInput"
                         type="range"
                         min="1"
                         max="3"
